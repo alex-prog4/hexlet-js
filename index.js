@@ -1,3 +1,3 @@
-import _ from "lodash";
+import pointInPractice from './src/index.js';
 console.log('Hello, Hexlet!');
-console.log(_.last(['one','two']));
+pointInPractice();
