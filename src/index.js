@@ -1,5 +1,6 @@
-import _ from "lodash";
+import _ from 'lodash';
+
 const pointInPractice = () => {
-console.log(_.last(['one','two']));
-}
+  console.log(_.last(['one', 'two']));
+};
 export default pointInPractice;
